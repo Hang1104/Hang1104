@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hang Shy Mun 👋
 
-<!--
-**Hang1104/Hang1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Junior Software Engineer based in Malaysia with almost 2 years of experience in PHP and Laravel backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, HTML/CSS, SQL, Python
+- **Frameworks:** Laravel, CodeIgniter, jQuery, WordPress
+- **Tools:** MySQL, Git, Visual Studio Code, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- Built an Invoice Tracking Module with RBAC and automated email notifications
+- Developed PHP automation scripts to replace manual data entry workflows
+- Secondary development on Laravel and CodeIgniter systems for client applications
+
+## 📫 Contact
+- Email: hsmun2002@gmail.com
